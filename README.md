@@ -24,7 +24,7 @@ in this project users should be able to:
 
 ## Deploying
 
-- [Vercel](https://rest-countries-react-app-snowy.vercel.app/home)
+- [Vercel](https://aps-countries-heydari.netlify.app/home)
 
 ## Tools and technologies used
 
